@@ -14,6 +14,7 @@ namespace On_Off_Boarding.Controllers
     {
 
         // TODO: Create backend to create the user in Acitve Directory & Exchange & SkypeForBussiness
+        //          *   When user is created, remove it from the database
         //       Create backend to connect to Azure and assign license
         //       Create Backend to migrate user from Exchange On-Prem to Exchange Online
         //       Create Backend to migrate user from Skype On-Prem to Skype/Teams Online

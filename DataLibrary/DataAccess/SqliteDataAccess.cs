@@ -27,7 +27,6 @@ namespace DataLibrary.DataAccess
             }
         }
 
-
         public static int SaveData<T>(string sql, T data)
         {
             using (IDbConnection cnn = new SQLiteConnection(GetConnectionString()))
