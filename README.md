@@ -4,7 +4,7 @@ An app for Onboard management in Active directory environments.
 
 
   
-## **Requierments:**
+## **Requirements:**
 * User has to be part of Domain Admin to be able to Create the user.
 
 
